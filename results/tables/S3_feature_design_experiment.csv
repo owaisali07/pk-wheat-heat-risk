@@ -1,0 +1,10 @@
+features,model,SS_vs_trend,r
+absolute,XGB std,-0.0269,0.0843
+absolute,XGB strong,0.0032,0.1004
+absolute,RF strong,0.0097,0.1185
+anomaly,XGB std,-0.0774,0.0299
+anomaly,XGB strong,-0.0134,0.0749
+anomaly,RF strong,-0.0075,0.0765
+anomaly+late abs heat,XGB std,-0.0647,0.0507
+anomaly+late abs heat,XGB strong,-0.0146,0.0723
+anomaly+late abs heat,RF strong,-0.0092,0.0753

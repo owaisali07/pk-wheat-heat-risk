@@ -1,0 +1,25 @@
+site,gwl,early,early+slower,slower,std,district
+Bahawalpur,0.0,13.9,9.9,-2.0,0.0,Bahawalpur
+Bahawalpur,1.5,18.7,15.4,2.1,6.0,Bahawalpur
+Bahawalpur,2.0,20.6,17.7,4.9,8.9,Bahawalpur
+Bahawalpur,3.0,25.4,22.9,11.2,15.6,Bahawalpur
+Chakwal,0.0,87.4,92.5,2.3,0.0,Chakwal
+Chakwal,1.5,114.5,115.3,3.4,3.0,Chakwal
+Chakwal,2.0,115.5,109.0,3.3,2.3,Chakwal
+Chakwal,3.0,112.2,118.3,-5.6,-5.5,Chakwal
+DIKhan,0.0,0.8,-0.1,-0.4,0.0,D. I. Khan
+DIKhan,1.5,1.4,0.5,-1.0,0.3,D. I. Khan
+DIKhan,2.0,2.8,1.5,0.2,1.0,D. I. Khan
+DIKhan,3.0,3.1,3.2,0.5,1.1,D. I. Khan
+Faisalabad,0.0,5.6,4.5,-2.2,0.0,Faisalabad
+Faisalabad,1.5,6.4,4.7,-1.0,1.5,Faisalabad
+Faisalabad,2.0,6.6,4.3,-0.8,1.9,Faisalabad
+Faisalabad,3.0,6.2,4.7,-0.9,1.8,Faisalabad
+Sanghar,0.0,7.4,5.4,-1.7,0.0,Sanghar
+Sanghar,1.5,10.1,7.5,-0.3,3.7,Sanghar
+Sanghar,2.0,11.1,9.0,0.3,4.9,Sanghar
+Sanghar,3.0,13.3,8.2,-0.9,6.2,Sanghar
+ShaheedBenazirAbad,0.0,8.5,6.7,-1.8,0.0,Shaheed Benazir Abad
+ShaheedBenazirAbad,1.5,11.9,9.2,1.3,3.7,Shaheed Benazir Abad
+ShaheedBenazirAbad,2.0,13.4,10.9,2.5,6.2,Shaheed Benazir Abad
+ShaheedBenazirAbad,3.0,16.5,12.7,3.6,10.3,Shaheed Benazir Abad

@@ -1,0 +1,9 @@
+,value
+Spearman hazard: own-only vs incl. inherited,0.9077
+Spearman hazard: XGB-only vs RF-only,0.1849
+Spearman risk: PCA vs equal vulnerability weights,0.8114
+"Pearson yield vs GDHY (district-seasons, 1982-2016)",0.4563
+Pearson first differences yield vs GDHY,0.3317
+"National heat loss %, heat incl. VPD (vs main)",0.5148
+"National heat loss %, main definition",0.2988
+Spearman hazard: main vs heat incl. VPD,0.234

@@ -1,0 +1,169 @@
+design,fold,model,alpha,max_features,min_samples_leaf,max_depth,min_child_weight
+LOYO,0,Ridge,1000.0,,,,
+LOYO,0,RF,,0.33,40.0,,
+LOYO,0,XGB,,,,2.0,20.0
+LOYO,1,Ridge,1000.0,,,,
+LOYO,1,RF,,0.33,40.0,,
+LOYO,1,XGB,,,,2.0,20.0
+LOYO,2,Ridge,1000.0,,,,
+LOYO,2,RF,,0.33,40.0,,
+LOYO,2,XGB,,,,2.0,20.0
+LOYO,3,Ridge,1000.0,,,,
+LOYO,3,RF,,0.33,40.0,,
+LOYO,3,XGB,,,,2.0,20.0
+LOYO,4,Ridge,1000.0,,,,
+LOYO,4,RF,,0.33,40.0,,
+LOYO,4,XGB,,,,2.0,20.0
+LOYO,5,Ridge,1000.0,,,,
+LOYO,5,RF,,0.33,40.0,,
+LOYO,5,XGB,,,,2.0,20.0
+LOYO,6,Ridge,1000.0,,,,
+LOYO,6,RF,,0.33,40.0,,
+LOYO,6,XGB,,,,2.0,20.0
+LOYO,7,Ridge,1000.0,,,,
+LOYO,7,RF,,0.33,40.0,,
+LOYO,7,XGB,,,,2.0,20.0
+LOYO,8,Ridge,1000.0,,,,
+LOYO,8,RF,,0.33,40.0,,
+LOYO,8,XGB,,,,2.0,20.0
+LOYO,9,Ridge,1000.0,,,,
+LOYO,9,RF,,0.33,40.0,,
+LOYO,9,XGB,,,,2.0,60.0
+LOYO,10,Ridge,1000.0,,,,
+LOYO,10,RF,,0.33,40.0,,
+LOYO,10,XGB,,,,2.0,60.0
+LOYO,11,Ridge,1000.0,,,,
+LOYO,11,RF,,0.33,40.0,,
+LOYO,11,XGB,,,,2.0,20.0
+LOYO,12,Ridge,1000.0,,,,
+LOYO,12,RF,,0.33,40.0,,
+LOYO,12,XGB,,,,2.0,20.0
+LOYO,13,Ridge,1000.0,,,,
+LOYO,13,RF,,0.33,40.0,,
+LOYO,13,XGB,,,,2.0,20.0
+LOYO,14,Ridge,1000.0,,,,
+LOYO,14,RF,,0.33,40.0,,
+LOYO,14,XGB,,,,2.0,20.0
+LOYO,15,Ridge,1000.0,,,,
+LOYO,15,RF,,0.33,40.0,,
+LOYO,15,XGB,,,,2.0,60.0
+LOYO,16,Ridge,1000.0,,,,
+LOYO,16,RF,,0.33,40.0,,
+LOYO,16,XGB,,,,2.0,60.0
+LOYO,17,Ridge,1000.0,,,,
+LOYO,17,RF,,0.33,40.0,,
+LOYO,17,XGB,,,,2.0,60.0
+LOYO,18,Ridge,1000.0,,,,
+LOYO,18,RF,,0.33,40.0,,
+LOYO,18,XGB,,,,2.0,60.0
+LOYO,19,Ridge,1000.0,,,,
+LOYO,19,RF,,0.33,40.0,,
+LOYO,19,XGB,,,,2.0,20.0
+LOYO,20,Ridge,1000.0,,,,
+LOYO,20,RF,,0.33,40.0,,
+LOYO,20,XGB,,,,2.0,20.0
+LOYO,21,Ridge,1000.0,,,,
+LOYO,21,RF,,0.33,40.0,,
+LOYO,21,XGB,,,,2.0,20.0
+LOYO,22,Ridge,1000.0,,,,
+LOYO,22,RF,,0.33,40.0,,
+LOYO,22,XGB,,,,2.0,20.0
+LOYO,23,Ridge,1000.0,,,,
+LOYO,23,RF,,0.33,40.0,,
+LOYO,23,XGB,,,,2.0,60.0
+LOYO,24,Ridge,1000.0,,,,
+LOYO,24,RF,,0.33,40.0,,
+LOYO,24,XGB,,,,2.0,60.0
+LOYO,25,Ridge,1000.0,,,,
+LOYO,25,RF,,0.33,40.0,,
+LOYO,25,XGB,,,,2.0,60.0
+LOYO,26,Ridge,1000.0,,,,
+LOYO,26,RF,,0.33,40.0,,
+LOYO,26,XGB,,,,2.0,60.0
+LOYO,27,Ridge,1000.0,,,,
+LOYO,27,RF,,0.33,40.0,,
+LOYO,27,XGB,,,,2.0,60.0
+LOYO,28,Ridge,1000.0,,,,
+LOYO,28,RF,,0.33,40.0,,
+LOYO,28,XGB,,,,2.0,20.0
+LOYO,29,Ridge,1000.0,,,,
+LOYO,29,RF,,0.33,40.0,,
+LOYO,29,XGB,,,,2.0,60.0
+LOYO,30,Ridge,1000.0,,,,
+LOYO,30,RF,,0.33,40.0,,
+LOYO,30,XGB,,,,2.0,60.0
+LOYO,31,Ridge,1000.0,,,,
+LOYO,31,RF,,0.33,40.0,,
+LOYO,31,XGB,,,,2.0,60.0
+LOYO,32,Ridge,1000.0,,,,
+LOYO,32,RF,,0.33,40.0,,
+LOYO,32,XGB,,,,2.0,20.0
+LOYO,33,Ridge,1000.0,,,,
+LOYO,33,RF,,0.6,40.0,,
+LOYO,33,XGB,,,,2.0,60.0
+LOYO,34,Ridge,1000.0,,,,
+LOYO,34,RF,,0.33,40.0,,
+LOYO,34,XGB,,,,2.0,60.0
+LOYO,35,Ridge,1000.0,,,,
+LOYO,35,RF,,0.33,40.0,,
+LOYO,35,XGB,,,,2.0,60.0
+LOYO,36,Ridge,1000.0,,,,
+LOYO,36,RF,,0.33,40.0,,
+LOYO,36,XGB,,,,2.0,60.0
+LOYO,37,Ridge,1000.0,,,,
+LOYO,37,RF,,0.33,40.0,,
+LOYO,37,XGB,,,,2.0,60.0
+LOYO,38,Ridge,1000.0,,,,
+LOYO,38,RF,,0.33,40.0,,
+LOYO,38,XGB,,,,2.0,60.0
+LOYO,39,Ridge,1000.0,,,,
+LOYO,39,RF,,0.33,40.0,,
+LOYO,39,XGB,,,,2.0,60.0
+LOYO,40,Ridge,1000.0,,,,
+LOYO,40,RF,,0.33,40.0,,
+LOYO,40,XGB,,,,2.0,20.0
+LOYO,41,Ridge,1000.0,,,,
+LOYO,41,RF,,0.33,40.0,,
+LOYO,41,XGB,,,,2.0,60.0
+LOYO,42,Ridge,1000.0,,,,
+LOYO,42,RF,,0.33,40.0,,
+LOYO,42,XGB,,,,2.0,20.0
+Spatial blocks,0,Ridge,1000.0,,,,
+Spatial blocks,0,RF,,0.33,40.0,,
+Spatial blocks,0,XGB,,,,2.0,20.0
+Spatial blocks,1,Ridge,1000.0,,,,
+Spatial blocks,1,RF,,0.33,40.0,,
+Spatial blocks,1,XGB,,,,2.0,20.0
+Spatial blocks,2,Ridge,1000.0,,,,
+Spatial blocks,2,RF,,0.33,40.0,,
+Spatial blocks,2,XGB,,,,2.0,60.0
+Spatial blocks,3,Ridge,1000.0,,,,
+Spatial blocks,3,RF,,0.33,40.0,,
+Spatial blocks,3,XGB,,,,2.0,60.0
+Spatial blocks,4,Ridge,1000.0,,,,
+Spatial blocks,4,RF,,0.33,40.0,,
+Spatial blocks,4,XGB,,,,2.0,20.0
+Spatial blocks,5,Ridge,1000.0,,,,
+Spatial blocks,5,RF,,0.33,40.0,,
+Spatial blocks,5,XGB,,,,2.0,20.0
+Spatial blocks,6,Ridge,1000.0,,,,
+Spatial blocks,6,RF,,0.33,40.0,,
+Spatial blocks,6,XGB,,,,2.0,20.0
+Spatial blocks,7,Ridge,1000.0,,,,
+Spatial blocks,7,RF,,0.33,40.0,,
+Spatial blocks,7,XGB,,,,2.0,20.0
+Forward chaining,0,Ridge,1000.0,,,,
+Forward chaining,0,RF,,0.33,40.0,,
+Forward chaining,0,XGB,,,,2.0,60.0
+Forward chaining,1,Ridge,1000.0,,,,
+Forward chaining,1,RF,,0.33,40.0,,
+Forward chaining,1,XGB,,,,2.0,20.0
+Forward chaining,2,Ridge,1000.0,,,,
+Forward chaining,2,RF,,0.33,40.0,,
+Forward chaining,2,XGB,,,,2.0,60.0
+Forward chaining,3,Ridge,1000.0,,,,
+Forward chaining,3,RF,,0.33,40.0,,
+Forward chaining,3,XGB,,,,2.0,60.0
+Forward chaining,4,Ridge,1000.0,,,,
+Forward chaining,4,RF,,0.33,40.0,,
+Forward chaining,4,XGB,,,,2.0,60.0

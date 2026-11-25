@@ -1,0 +1,19 @@
+level,model,n,r,SS_vs_trend
+district-season,Ridge,3958,0.0217,-0.0083
+district-season,RF,3958,0.1176,0.0094
+district-season,XGB,3958,0.0759,-0.0169
+province-season,Ridge,206,0.0839,0.0044
+province-season,RF,206,0.2265,0.0484
+province-season,XGB,206,0.1742,0.0209
+national-season,Ridge,43,0.1515,0.0121
+national-season,RF,43,0.2899,0.0826
+national-season,XGB,43,0.2254,0.0392
+"district-season, irrigated (>=80%)",Ridge,1470,-0.037,-0.0287
+"district-season, irrigated (>=80%)",RF,1470,0.0543,-0.0155
+"district-season, irrigated (>=80%)",XGB,1470,0.0073,-0.0569
+"district-season, mixed",Ridge,1199,-0.0176,-0.0209
+"district-season, mixed",RF,1199,0.0044,-0.0283
+"district-season, mixed",XGB,1199,-0.0172,-0.0552
+"district-season, rainfed (<50%)",Ridge,1289,0.0972,0.0095
+"district-season, rainfed (<50%)",RF,1289,0.2065,0.0424
+"district-season, rainfed (<50%)",XGB,1289,0.1657,0.0248

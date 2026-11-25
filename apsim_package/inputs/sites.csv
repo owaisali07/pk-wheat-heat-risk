@@ -1,0 +1,7 @@
+site,pcode,province,irrigated,sow,anth_doy,mat_doy,lat,lon,district
+Sanghar,PK718,Sindh,True,10-nov,60,90,25.96,68.97,Sanghar
+ShaheedBenazirAbad,PK719,Sindh,True,10-nov,64,95,26.339,68.294,Shaheed Benazir Abad
+Bahawalpur,PK603,Punjab,True,20-nov,74,105,29.292,71.721,Bahawalpur
+Faisalabad,PK608,Punjab,True,15-nov,79,110,31.277,73.202,Faisalabad
+Chakwal,PK605,Punjab,False,30-oct,91,125,32.922,72.548,Chakwal
+DIKhan,PK509,Khyber Pakhtunkhwa,True,15-nov,74,105,31.798,70.804,D. I. Khan

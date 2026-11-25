@@ -1,0 +1,17 @@
+# raw inputs and large intermediate files stay local (see data/README.md)
+/data_raw/
+/external_data/
+/data_processed/analysis/daily_*.parquet
+/data_processed/analysis/nex/
+/apsim_package/work/
+/apsim_package/inputs/raw/rcmip-*.csv
+*.log
+# Python / Jupyter / OS
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.nc

@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this code or these data, please cite the paper and this repository."
+title: "Code and data for: Explainable GeoAI Locates Structural Wheat Heat-Stress Risk in Pakistan"
+type: software
+version: "1.0.0"
+date-released: "2026-11-25"
+license: MIT
+repository-code: "https://github.com/owaisali07/pk-wheat-heat-risk"
+authors:
+  - family-names: "Ali"
+    given-names: "Owais"
+    affiliation: "Department of Space Science, Institute of Space Technology, Islamabad, Pakistan"
+    orcid: "https://orcid.org/0000-0002-8414-8453"
+  - family-names: "Haji"
+    given-names: "Shahida"
+    affiliation: "Center for Integrated Mountain Research, University of the Punjab, Lahore, Pakistan"
+  - family-names: "Arshad"
+    given-names: "Adnan"
+    affiliation: "Department of Climate-smart Agriculture, PODA-Pakistan, Islamabad, Pakistan"
+keywords:
+  - wheat
+  - heat stress
+  - Pakistan
+  - GeoAI
+  - explainable machine learning
+  - climate risk
+  - WOFOST
+  - APSIM
+preferred-citation:
+  type: article
+  title: "Explainable GeoAI Locates Structural Wheat Heat-Stress Risk in Pakistan: Integrating Earth Observation, Climate Projections and Socioeconomic Data"
+  year: 2026
+  status: submitted
+  authors:
+    - family-names: "Ali"
+      given-names: "Owais"
+      orcid: "https://orcid.org/0000-0002-8414-8453"
+    - family-names: "Haji"
+      given-names: "Shahida"
+    - family-names: "Arshad"
+      given-names: "Adnan"

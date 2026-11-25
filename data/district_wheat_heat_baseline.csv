@@ -1,0 +1,161 @@
+adm2_pcode,adm2_name,adm1_name,area_sqkm,wheat_kha,irr_share,tmax_MA_C
+PK101,Bagh,Azad Kashmir,694.417,0.0,,16.415
+PK102,Bhimber,Azad Kashmir,1212.947,2.346,0.0,26.807
+PK104,Haveli,Azad Kashmir,550.893,0.0,,12.113
+PK103,Jhelum Valley,Azad Kashmir,681.765,0.0,,11.527
+PK105,Kotli,Azad Kashmir,1599.117,0.0,,23.049
+PK106,Mirpur,Azad Kashmir,896.929,0.0,,26.757
+PK107,Muzaffarabad,Azad Kashmir,1361.013,0.0,,13.222
+PK108,Neelum,Azad Kashmir,3137.466,0.0,,0.403
+PK109,Poonch,Azad Kashmir,719.57,0.0,,18.718
+PK110,Sudhnoti,Azad Kashmir,567.862,0.0,,20.617
+PK201,Awaran,Balochistan,24989.603,14.671,42.73,32.279
+PK202,Barkhan,Balochistan,3515.441,14.105,52.011,24.586
+PK203,Chagai,Balochistan,44476.872,0.0,,28.388
+PK235,Chaman,Balochistan,1635.513,1.969,0.041,19.57
+PK204,Dera Bugti,Balochistan,10294.113,9.756,38.202,30.691
+PK234,Duki,Balochistan,4336.471,2.68,84.48,24.105
+PK205,Gwadar,Balochistan,11574.378,0.0,,32.56
+PK206,Harnai,Balochistan,3062.968,9.939,10.778,22.086
+PK207,Jaffarabad,Balochistan,1701.837,27.199,73.802,34.05
+PK208,Jhal Magsi,Balochistan,3860.091,44.545,51.927,32.293
+PK209,Kachhi,Balochistan,5363.912,8.189,100.0,28.484
+PK210,Kalat,Balochistan,10179.77,5.866,0.21,20.815
+PK211,Kech,Balochistan,24419.269,2.894,52.527,32.561
+PK212,Kharan,Balochistan,8215.9,6.681,64.222,26.291
+PK213,Khuzdar,Balochistan,30954.901,42.467,74.212,27.812
+PK214,Killa Abdullah,Balochistan,2992.96,1.772,0.226,18.858
+PK215,Killa Saifullah,Balochistan,12403.859,16.329,0.0,18.807
+PK216,Kohlu,Balochistan,7728.053,2.019,0.0,27.115
+PK217,Lasbela,Balochistan,14057.353,8.35,38.361,32.905
+PK218,Lehri,Balochistan,3285.292,5.098,58.812,32.827
+PK219,Loralai,Balochistan,3796.603,5.192,25.618,21.427
+PK220,Mastung,Balochistan,4712.726,4.88,0.219,20.293
+PK221,Musakhel,Balochistan,5900.701,1.621,7.287,23.143
+PK222,Nasirabad,Balochistan,3224.904,76.312,22.955,33.674
+PK223,Nushki,Balochistan,5863.174,9.024,0.0,25.955
+PK224,Panjgur,Balochistan,17582.386,2.642,0.0,28.999
+PK225,Pishin,Balochistan,6085.877,10.797,0.107,17.547
+PK226,Quetta,Balochistan,3759.734,3.397,0.197,19.906
+PK233,Shaheed Sikandarabad,Balochistan,3706.435,1.082,0.351,22.286
+PK227,Sherani,Balochistan,3050.543,1.807,0.0,21.303
+PK228,Sibi,Balochistan,4965.919,5.195,86.911,28.631
+PK229,Sohbatpur,Balochistan,786.874,15.347,54.901,33.752
+PK230,Washuk,Balochistan,39031.172,3.164,100.0,29.052
+PK231,Zhob,Balochistan,11936.641,2.522,0.0,19.999
+PK232,Ziarat,Balochistan,3271.316,9.693,3.415,17.515
+PK301,Astore,Gilgit Baltistan,5132.459,0.0,,-4.545
+PK311,Darel,Gilgit Baltistan,1650.926,0.0,,0.42
+PK302,Diamir,Gilgit Baltistan,4215.476,0.0,,-0.766
+PK303,Ghanche,Gilgit Baltistan,8673.952,0.0,,-12.077
+PK304,Ghizer,Gilgit Baltistan,4323.533,0.0,,-7.753
+PK305,Gilgit,Gilgit Baltistan,4016.026,0.0,,-4.726
+PK313,Gupis-Yasin,Gilgit Baltistan,7726.11,0.0,,-8.057
+PK306,Hunza,Gilgit Baltistan,11419.076,0.0,,-12.018
+PK309,Kharmang,Gilgit Baltistan,5971.077,0.0,,-7.448
+PK308,Nagar,Gilgit Baltistan,3022.156,0.0,,-10.045
+PK314,Rondu,Gilgit Baltistan,1881.902,0.0,,-5.906
+PK310,Shigar,Gilgit Baltistan,8513.355,0.0,,-11.134
+PK307,Skardu,Gilgit Baltistan,2118.951,0.0,,-6.127
+PK312,Tangir,Gilgit Baltistan,1102.336,0.0,,-3.101
+PK401,Islamabad,Islamabad,901.533,16.094,2.734,24.434
+PK501,Abbottabad,Khyber Pakhtunkhwa,1639.517,13.85,18.942,19.503
+PK502,Bajaur,Khyber Pakhtunkhwa,1366.31,30.142,79.028,19.517
+PK503,Bannu,Khyber Pakhtunkhwa,2027.75,14.506,76.764,25.573
+PK504,Batagram,Khyber Pakhtunkhwa,1485.179,7.64,26.159,9.022
+PK505,Buner,Khyber Pakhtunkhwa,1774.048,36.897,41.015,21.349
+PK506,Charsadda,Khyber Pakhtunkhwa,999.136,29.257,79.829,25.643
+PK507,Chitral Lower,Khyber Pakhtunkhwa,6077.27,1.784,99.804,-3.837
+PK508,Chitral Upper,Khyber Pakhtunkhwa,8615.417,7.301,99.975,-9.42
+PK509,D. I. Khan,Khyber Pakhtunkhwa,9028.552,48.532,95.733,27.601
+PK510,Hangu,Khyber Pakhtunkhwa,1372.016,11.974,21.418,21.867
+PK511,Haripur,Khyber Pakhtunkhwa,1953.9,40.758,27.126,23.258
+PK512,Karak,Khyber Pakhtunkhwa,2648.386,20.964,9.189,25.015
+PK513,Khyber,Khyber Pakhtunkhwa,2747.427,12.623,89.161,18.691
+PK514,Kohat,Khyber Pakhtunkhwa,3438.499,36.691,42.973,24.85
+PK515,Kohistan Lower,Khyber Pakhtunkhwa,823.484,3.123,53.638,3.499
+PK516,Kohistan Upper,Khyber Pakhtunkhwa,5484.727,17.897,50.428,-1.701
+PK517,Kolai Palas Kohistan,Khyber Pakhtunkhwa,1229.716,2.399,29.757,3.0
+PK518,Kurram,Khyber Pakhtunkhwa,3398.381,12.039,97.217,16.737
+PK519,Lakki Marwat,Khyber Pakhtunkhwa,3339.824,21.697,100.0,26.917
+PK520,Lower Dir,Khyber Pakhtunkhwa,1604.744,32.875,84.045,18.01
+PK521,Malakand,Khyber Pakhtunkhwa,905.695,22.962,82.642,23.11
+PK522,Mansehra,Khyber Pakhtunkhwa,4032.013,34.377,29.815,8.846
+PK523,Mardan,Khyber Pakhtunkhwa,1636.409,45.347,75.735,25.088
+PK524,Mohmand,Khyber Pakhtunkhwa,2261.953,14.66,23.226,22.053
+PK525,North Waziristan,Khyber Pakhtunkhwa,4929.68,7.396,89.57,19.004
+PK526,Nowshera,Khyber Pakhtunkhwa,1725.712,24.336,70.733,25.322
+PK527,Orakzai,Khyber Pakhtunkhwa,1369.891,4.009,0.0,19.299
+PK528,Peshawar,Khyber Pakhtunkhwa,1539.071,40.688,83.038,25.057
+PK529,Shangla,Khyber Pakhtunkhwa,1384.206,11.03,13.319,12.887
+PK530,South Waziristan,Khyber Pakhtunkhwa,6224.407,7.35,42.37,20.247
+PK531,Swabi,Khyber Pakhtunkhwa,1480.463,48.188,39.705,24.272
+PK532,Swat,Khyber Pakhtunkhwa,5348.329,63.782,58.615,5.196
+PK533,Tank,Khyber Pakhtunkhwa,2818.779,11.612,99.943,26.344
+PK534,Tor Ghar,Khyber Pakhtunkhwa,454.381,1.778,2.227,18.727
+PK535,Upper Dir,Khyber Pakhtunkhwa,3731.822,20.57,49.371,5.43
+PK601,Attock,Punjab,6910.05,312.45,0.19,25.994
+PK602,Bahawalnagar,Punjab,8576.763,305.094,73.812,32.736
+PK603,Bahawalpur,Punjab,23966.106,299.774,72.031,33.691
+PK604,Bhakkar,Punjab,8473.126,144.26,99.394,30.263
+PK605,Chakwal,Punjab,6487.507,271.4,0.063,26.241
+PK606,Chiniot,Punjab,2602.019,127.692,85.287,30.475
+PK607,Dera Ghazi Khan,Punjab,11765.678,182.958,77.138,29.024
+PK608,Faisalabad,Punjab,5947.432,289.223,73.598,31.003
+PK609,Gujranwala,Punjab,3619.833,187.96,92.596,29.415
+PK610,Gujrat,Punjab,3168.331,155.203,48.984,28.414
+PK611,Hafizabad,Punjab,2277.344,129.944,85.512,29.816
+PK612,Jhang,Punjab,6345.116,261.746,88.235,31.073
+PK613,Jhelum,Punjab,3568.798,135.733,3.727,27.683
+PK614,Kasur,Punjab,3986.665,190.208,97.551,31.251
+PK615,Khanewal,Punjab,4355.75,171.798,92.074,31.806
+PK616,Khushab,Punjab,6599.601,90.854,32.243,28.911
+PK617,Lahore,Punjab,1729.893,69.653,90.867,30.438
+PK618,Leiah,Punjab,6412.721,199.227,88.886,31.165
+PK619,Lodhran,Punjab,2666.34,139.205,89.263,32.234
+PK620,Mandi Bahauddin,Punjab,2741.666,130.25,80.22,29.088
+PK621,Mianwali,Punjab,5960.296,169.131,49.319,27.415
+PK622,Multan,Punjab,3648.245,169.406,75.432,32.122
+PK623,Muzaffargarh,Punjab,7688.072,310.591,73.213,32.026
+PK624,Nankana Sahib,Punjab,2194.613,112.457,79.68,30.844
+PK625,Narowal,Punjab,2376.314,170.747,61.592,28.6
+PK626,Okara,Punjab,4437.237,182.583,95.632,31.709
+PK627,Pakpattan,Punjab,2884.284,115.422,93.639,31.988
+PK628,Rahim Yar Khan,Punjab,12848.722,308.781,78.893,33.902
+PK629,Rajanpur,Punjab,12584.645,173.751,71.276,31.602
+PK630,Rawalpindi,Punjab,5225.968,245.915,11.135,24.799
+PK631,Sahiwal,Punjab,3228.72,109.547,96.397,31.702
+PK632,Sargodha,Punjab,5845.861,223.092,97.563,29.705
+PK633,Sheikhupura,Punjab,3628.43,200.644,81.957,30.141
+PK634,Sialkot,Punjab,3068.196,180.138,91.237,28.61
+PK635,Toba Tek Singh,Punjab,3081.526,121.407,95.386,31.303
+PK636,Vehari,Punjab,4499.557,187.742,98.642,32.078
+PK701,Badin,Sindh,6574.994,36.99,76.3,36.043
+PK702,Central Karachi,Sindh,65.144,0.0,,32.082
+PK703,Dadu,Sindh,8017.51,71.795,90.233,33.943
+PK704,East Karachi,Sindh,202.922,0.0,,32.427
+PK705,Ghotki,Sindh,6366.902,98.616,76.556,34.657
+PK706,Hyderabad,Sindh,1018.91,12.223,78.281,35.732
+PK707,Jacobabad,Sindh,2691.199,27.678,65.671,34.226
+PK708,Jamshoro,Sindh,11230.867,28.968,57.168,34.495
+PK709,Kambar Shahdad Kot,Sindh,5597.193,47.234,62.786,33.436
+PK710,Kashmore,Sindh,2614.888,21.665,59.353,33.944
+PK711,Khairpur,Sindh,16005.556,107.058,77.551,35.57
+PK712,Korangi Karachi,Sindh,104.292,0.0,,32.433
+PK713,Larkana,Sindh,1921.041,23.374,70.599,34.784
+PK714,Malir Karachi,Sindh,2726.861,1.245,73.371,33.091
+PK715,Matiari,Sindh,1457.941,31.321,86.949,35.752
+PK716,Mirpur Khas,Sindh,3463.162,72.667,99.694,35.858
+PK717,Naushahro Feroze,Sindh,3036.863,105.193,84.468,35.193
+PK718,Sanghar,Sindh,10158.322,111.316,87.401,36.087
+PK719,Shaheed Benazir Abad,Sindh,4582.237,83.412,68.3,35.568
+PK720,Shikarpur,Sindh,2551.829,33.582,85.476,34.364
+PK721,South Karachi,Sindh,507.625,0.0,,31.006
+PK722,Sujawal,Sindh,8687.469,10.078,80.196,34.584
+PK723,Sukkur,Sindh,5178.714,45.617,65.983,34.989
+PK724,Tando Allahyar,Sindh,1544.216,38.727,92.842,35.742
+PK725,Tando Muhammad Khan,Sindh,1676.887,24.684,69.429,35.822
+PK726,Tharparkar,Sindh,19682.934,1.772,100.0,36.481
+PK727,Thatta,Sindh,7630.461,8.072,77.645,33.965
+PK728,Umer Kot,Sindh,5489.586,43.713,98.543,36.179
+PK729,West Karachi,Sindh,241.766,0.0,,31.935

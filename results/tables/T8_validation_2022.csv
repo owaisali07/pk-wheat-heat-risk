@@ -1,0 +1,26 @@
+,value
+n_districts,112.0
+observed_mean_anom_pct (area-weighted),-3.7503
+predicted_mean_anom_pct (area-weighted),-1.8827
+pearson_r,-0.0223
+pearson_p,0.8157
+spearman_rho,-0.0405
+RMSE_model,0.138
+RMSE_trend,0.1371
+share_sign_correct,0.5357
+mean_heat_loss_pct,1.3195
+heat_loss_1991_2020_mean_pct,0.2988
+spearman_R_vs_anom,0.0496
+spearman_R_vs_anom_p,0.6036
+spearman_H_vs_anom,0.0238
+spearman_H_vs_anom_p,0.8029
+kruskal_H,0.6411
+kruskal_p,0.7257
+mean_anom_pct_low_risk,-2.3069
+mean_anom_pct_medium_risk,-2.1046
+mean_anom_pct_high_risk,-1.3563
+n_highhigh_cluster,10.0
+mean_anom_pct_highhigh_cluster,-15.6202
+mean_anom_pct_other_districts,-0.5761
+mannwhitney_U_cluster_lt_other,249.0
+mannwhitney_p_one_sided,0.0039

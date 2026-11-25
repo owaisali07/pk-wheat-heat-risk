@@ -1,0 +1,7 @@
+site,district,n_seasons,r_detrended_anomaly,p,sim_anthesis_doy,target_anthesis_doy,sim_maturity_doy,target_maturity_doy,sim_yield_1991_2020_t_ha,obs_yield_2011_2020_t_ha,seasons_harvested_base,cultivar
+Sanghar,Sanghar,40,-0.023,0.887,54.367,60,91.667,90,5.095,3.486,30,Spring Slow
+ShaheedBenazirAbad,Shaheed Benazir Abad,40,0.046,0.776,56.1,64,93.2,95,4.999,4.011,30,Spring Slow
+Bahawalpur,Bahawalpur,40,0.09,0.58,69.2,74,105.867,105,4.678,3.158,30,Spring Mid-Slow
+Faisalabad,Faisalabad,40,-0.262,0.102,78.533,79,116.167,110,6.113,3.187,30,Spring Slow
+Chakwal,Chakwal,40,0.015,0.927,86.167,91,123.733,125,1.85,1.405,30,Spring Mid-Slow
+DIKhan,D. I. Khan,39,-0.103,0.532,72.133,74,107.233,105,6.272,1.821,30,Spring Mid

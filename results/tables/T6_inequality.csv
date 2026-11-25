@@ -1,0 +1,9 @@
+period,metric,C,C_boot_lo,C_boot_hi,C_gcm_p10,C_gcm_p90,share_poorest20,share_richest20
+1991-2020,relative loss (% of trend yield),0.0131,-0.0432,0.0697,,,0.1931,0.209
+1991-2020,absolute loss (t),0.1821,0.0724,0.2885,,,0.0731,0.2451
++1.5 degC,relative loss (% of trend yield),-0.0338,-0.0979,0.0346,-0.0788,0.0106,0.2177,0.1927
++1.5 degC,absolute loss (t),0.1357,0.0338,0.2495,0.0859,0.1727,0.0824,0.2224
++2.0 degC,relative loss (% of trend yield),-0.0542,-0.1212,0.0151,-0.1005,-0.0107,0.2128,0.1815
++2.0 degC,absolute loss (t),0.0933,-0.014,0.2044,0.0513,0.1321,0.0874,0.2028
++3.0 degC,relative loss (% of trend yield),-0.0959,-0.1587,-0.0294,-0.1421,-0.0614,0.2298,0.144
++3.0 degC,absolute loss (t),0.0426,-0.0471,0.1394,0.005,0.073,0.1041,0.1512
